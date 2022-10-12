@@ -1,0 +1,15 @@
+{
+    "name": "hhagg/app",
+    "autoload": {
+        "psr-4": {
+            "Hhagg\\App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "hakeem",
+            "email": "hakeem.haggui@gmail.com"
+        }
+    ],
+    "require": {}
+}
